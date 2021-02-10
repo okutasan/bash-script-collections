@@ -1,0 +1,6 @@
+ENV=dev
+VERSION=1.0
+USER=OKTA
+DOCKER=nginx
+HOST=localhost
+PORT=8888
